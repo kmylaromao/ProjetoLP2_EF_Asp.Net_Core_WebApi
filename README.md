@@ -3,7 +3,7 @@ Descrição.
 
    Sistema de Gereciamento de PetShop - SISPetShop
 
-Pré - requisitos
+Pré - requisitos.
 
    Visual Studio Code
    
