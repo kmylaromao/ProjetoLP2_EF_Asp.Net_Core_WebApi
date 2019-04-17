@@ -6,6 +6,8 @@ Descrição.
 Pré - requisitos
 
    Visual Studio Code
+   
   .Net Core 2.1 sdk
+  
    MySql
       
